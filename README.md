@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of olleksi/flarum-homepage.** Not for installation: use [Packagist](https://packagist.org/packages/olleksi/flarum-homepage) or the [upstream repository](https://github.com/olleksi/flarum-homepage).
 
-**0** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/olleksi-flarum-homepage/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.0`
+**5** versions archived · Latest: [`v1.0.4`](https://github.com/flarchive/olleksi-flarum-homepage/tree/archive/v1.0.4) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2025-10-30 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-homepage/tree/archive/v1.0.0) |
+| `v1.0.1` | 2025-10-30 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-homepage/tree/archive/v1.0.1) |
+| `v1.0.2` | 2025-10-30 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-homepage/tree/archive/v1.0.2) |
+| `v1.0.3` | 2025-10-30 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-homepage/tree/archive/v1.0.3) |
+| `v1.0.4` | 2025-10-31 | `^1.0` | [Browse](https://github.com/flarchive/olleksi-flarum-homepage/tree/archive/v1.0.4) |
 
 Catalog entry: [packages/olleksi-flarum-homepage.json](https://github.com/flarchive/archive-index/blob/main/packages/olleksi-flarum-homepage.json)
 
